@@ -1,2 +1,2 @@
-m = None
 action = None
+reward = None
